@@ -63,7 +63,6 @@
 - [ ] [Training GANs with Optimism](https://arxiv.org/abs/1711.00141)
 - [ ] [The Riemannian Geometry of Deep Generative Models](https://arxiv.org/abs/1711.08014)
 - [ ] [Normalized Direction-preserving Adam](https://arxiv.org/abs/1709.04546)
-- [ ] [https://arxiv.org/abs/1710.09412](https://arxiv.org/abs/1710.09412)
 - [ ] [Deep Gaussian Covariance Network](https://arxiv.org/abs/1710.06202)
 - [ ] [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)
 - [ ] [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813)
@@ -110,13 +109,13 @@
 ## Reinforcement Learning
 
 - [ ] [Implementing the Deep Q-Network](https://arxiv.org/abs/1711.07478)
-- [ ] [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)
-- [ ] [Safe Model-based Reinforcement Learning with Stability Guarantees](https://arxiv.org/abs/1705.08551)
 - [ ] [A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning](https://arxiv.org/abs/1711.00832)
+- [ ] [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)
 - [ ] [TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning](https://arxiv.org/abs/1710.11417)
 - [ ] [Distributed Prioritized Experience Replay](https://openreview.net/forum?id=H1Dy---0Z)
-- [ ] [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/abs/1708.05144)
 - [ ] [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087)
+- [ ] [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/abs/1708.05144)
+- [ ] [Safe Model-based Reinforcement Learning with Stability Guarantees](https://arxiv.org/abs/1705.08551)
 
 ## Computer Vision
 
