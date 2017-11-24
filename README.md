@@ -1,47 +1,30 @@
 # Papers
 
-## Natural Language Processing
+## Machine Learning
 
-- [ ] [A Gentle Introduction to Calculating the BLEU Score for Text in Python](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
-- [ ] [Detecting and Explaining Crisis](https://arxiv.org/abs/1705.09585)
-- [ ] [Breaking the Softmax Bottleneck: A High-Rank RNN Language Model](https://arxiv.org/abs/1711.03953)
-- [ ] [Improving Distributional Similarity with Lessons Learned from Word Embeddings](http://www.aclweb.org/anthology/Q15-1016)
-- [ ] [Language as a Latent Variable: Discrete Generative Models for Sentence Compression](https://arxiv.org/abs/1609.07317)
-- [ ] [Compressing Word Embeddings via Deep Compositional Code Learning](https://arxiv.org/abs/1711.01068)
-- [ ] [Improving Negative Sampling for Word Representation using Self-embedded Features](https://arxiv.org/abs/1710.09805)
-- [ ] [Unsupervised Neural Machine Translation](https://arxiv.org/abs/1710.11041)
-- [ ] [Unsupervised Machine Translation Using Monolingual Corpora Only](https://arxiv.org/abs/1711.00043)
-- [ ] [Using k-way Co-occurrences for Learning Word Embeddings](https://arxiv.org/abs/1709.01199)
-- [ ] [Paraphrase Generation with Deep Reinforcement Learning](https://arxiv.org/abs/1711.00279)
-- [ ] [One-shot and few-shot learning of word embeddings](https://arxiv.org/abs/1710.10280)
-- [ ] [Understanding Neural Networks through Representation Erasure](https://arxiv.org/abs/1612.08220)
-- [ ] [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](https://www.aclweb.org/anthology/P12-2018)
-- [ ] [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342)
-
-## Speech Synthesis 
-
-- [ ] [Parallel WaveNet: Fast High-Fidelity Speech Synthesis](https://deepmind.com/documents/131/Distilling_WaveNet.pdf)
-- [ ] [High-fidelity speech synthesis with WaveNet](https://deepmind.com/blog/high-fidelity-speech-synthesis-wavenet/)
-- [ ] [Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention](https://arxiv.org/abs/1710.08969)
-
-## Speech Recognition
-
-- [ ] [Exploring Speech Enhancement with Generative Adversarial Networks for Robust Speech Recognition](https://arxiv.org/abs/1711.05747)
-- [ ] [Robust Speech Recognition Using Generative Adversarial Networks](https://arxiv.org/abs/1711.01567)
-
-## Sound
-
-- [ ] [Singing Voice Separation with Deep U-Net Convolutional Networks](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/171_Paper.pdf)
-- [ ] [A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement](https://arxiv.org/abs/1709.08243)
-- [ ] [Adversarial Semi-Supervised Audio Source Separation applied to Singing Voice Extraction](https://arxiv.org/abs/1711.00048)
-
-## Reinforcement Learning
-
-- [ ] [Implementing the Deep Q-Network](https://arxiv.org/abs/1711.07478)
-- [ ] [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)
-- [ ] [Safe Model-based Reinforcement Learning with Stability Guarantees](https://arxiv.org/abs/1705.08551)
-- [ ] [A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning](https://arxiv.org/abs/1711.00832)
-- [ ] [TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning](https://arxiv.org/abs/1710.11417)
+- [ ] [Deep Gaussian Mixture Models](https://arxiv.org/abs/1711.06929)
+- [ ] [Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/abs/1701.05369)
+- [ ] [MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks](https://arxiv.org/abs/1711.06788)
+- [ ] [A Resizable Mini-batch Gradient Descent based on a Randomized Weighted Majority](https://arxiv.org/abs/1711.06424)
+- [ ] [Dataset Augmentation in Feature Space](https://arxiv.org/abs/1702.05538)
+- [ ] [Simple And Efficient Architecture Search for Convolutional Neural Networks](https://arxiv.org/abs/1711.04528)
+- [ ] [Kronecker Recurrent Units](https://arxiv.org/abs/1705.10142)
+- [ ] [High-dimensional dynamics of generalization error in neural networks](https://arxiv.org/abs/1710.03667)
+- [ ] [Bayesian Optimization with Gradients](https://arxiv.org/abs/1703.04389)
+- [ ] [Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb)
+- [ ] [Data Augmentation Generative Adversarial Networks](https://arxiv.org/abs/1711.04340)
+- [ ] [Variance Reduced methods for Non-convex Composition Optimization](https://arxiv.org/abs/1711.04416)
+- [ ] [Simple And Efficient Architecture Search for Convolutional Neural Networks](https://arxiv.org/abs/1711.04528)
+- [ ] [On Tensor Train Rank Minimization: Statistical Efficiency and Scalable Algorithm](https://arxiv.org/abs/1708.00132)
+- [ ] [Learning and Real-time Classification of Hand-written Digits With Spiking Neural Networks](https://arxiv.org/abs/1711.03637)
+- [ ] [Seven neurons memorizing sequences of alphabetical images via spike-timing dependent plasticity](https://www.nature.com/articles/srep14149)
+- [ ] [Bayesian GAN](https://arxiv.org/abs/1705.09558)
+- [ ] [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
+- [ ] [Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net](https://arxiv.org/abs/1711.02282)
+- [ ] [Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165)
+- [ ] [Deep Recurrent Gaussian Process with Variational Sparse Spectrum Approximation](https://arxiv.org/abs/1711.00799)
+- [ ] [Fraternal Dropout](https://arxiv.org/abs/1711.00066)
+- [ ] [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489)
 
 ## Learning
 
@@ -72,6 +55,49 @@
 - [ ] [Normalized Direction-preserving Adam](https://arxiv.org/abs/1709.04546)
 - [ ] [https://arxiv.org/abs/1710.09412](https://arxiv.org/abs/1710.09412)
 
+## Natural Language Processing
+
+- [ ] [A Gentle Introduction to Calculating the BLEU Score for Text in Python](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
+- [ ] [Detecting and Explaining Crisis](https://arxiv.org/abs/1705.09585)
+- [ ] [Breaking the Softmax Bottleneck: A High-Rank RNN Language Model](https://arxiv.org/abs/1711.03953)
+- [ ] [Improving Distributional Similarity with Lessons Learned from Word Embeddings](http://www.aclweb.org/anthology/Q15-1016)
+- [ ] [Language as a Latent Variable: Discrete Generative Models for Sentence Compression](https://arxiv.org/abs/1609.07317)
+- [ ] [Compressing Word Embeddings via Deep Compositional Code Learning](https://arxiv.org/abs/1711.01068)
+- [ ] [Improving Negative Sampling for Word Representation using Self-embedded Features](https://arxiv.org/abs/1710.09805)
+- [ ] [Unsupervised Neural Machine Translation](https://arxiv.org/abs/1710.11041)
+- [ ] [Unsupervised Machine Translation Using Monolingual Corpora Only](https://arxiv.org/abs/1711.00043)
+- [ ] [Using k-way Co-occurrences for Learning Word Embeddings](https://arxiv.org/abs/1709.01199)
+- [ ] [Paraphrase Generation with Deep Reinforcement Learning](https://arxiv.org/abs/1711.00279)
+- [ ] [One-shot and few-shot learning of word embeddings](https://arxiv.org/abs/1710.10280)
+- [ ] [Understanding Neural Networks through Representation Erasure](https://arxiv.org/abs/1612.08220)
+- [ ] [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](https://www.aclweb.org/anthology/P12-2018)
+- [ ] [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342)
+
+## Reinforcement Learning
+
+- [ ] [Implementing the Deep Q-Network](https://arxiv.org/abs/1711.07478)
+- [ ] [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)
+- [ ] [Safe Model-based Reinforcement Learning with Stability Guarantees](https://arxiv.org/abs/1705.08551)
+- [ ] [A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning](https://arxiv.org/abs/1711.00832)
+- [ ] [TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning](https://arxiv.org/abs/1710.11417)
+
+## Speech Synthesis 
+
+- [ ] [Parallel WaveNet: Fast High-Fidelity Speech Synthesis](https://deepmind.com/documents/131/Distilling_WaveNet.pdf)
+- [ ] [High-fidelity speech synthesis with WaveNet](https://deepmind.com/blog/high-fidelity-speech-synthesis-wavenet/)
+- [ ] [Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention](https://arxiv.org/abs/1710.08969)
+
+## Speech Recognition
+
+- [ ] [Exploring Speech Enhancement with Generative Adversarial Networks for Robust Speech Recognition](https://arxiv.org/abs/1711.05747)
+- [ ] [Robust Speech Recognition Using Generative Adversarial Networks](https://arxiv.org/abs/1711.01567)
+
+## Sound
+
+- [ ] [Singing Voice Separation with Deep U-Net Convolutional Networks](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/171_Paper.pdf)
+- [ ] [A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement](https://arxiv.org/abs/1709.08243)
+- [ ] [Adversarial Semi-Supervised Audio Source Separation applied to Singing Voice Extraction](https://arxiv.org/abs/1711.00048)
+
 ## Information Theory
 
 - [ ] [Ternary Residual Networks](https://arxiv.org/abs/1707.04679)
@@ -91,32 +117,6 @@
 - [ ] [Deep Scattering: Rendering Atmospheric Clouds with Radiance-Predicting Neural Networks](https://arxiv.org/abs/1709.05418)
 - [ ] [A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement](http://web340.server8.webgo24.de/pirk_info/papers/Pirk.etal-2017-WoodCombustion.pdf)
 
-## Machine Learning
-
-- [ ] [Deep Gaussian Mixture Models](https://arxiv.org/abs/1711.06929)
-- [ ] [Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/abs/1701.05369)
-- [ ] [MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks](https://arxiv.org/abs/1711.06788)
-- [ ] [A Resizable Mini-batch Gradient Descent based on a Randomized Weighted Majority](https://arxiv.org/abs/1711.06424)
-- [ ] [Dataset Augmentation in Feature Space](https://arxiv.org/abs/1702.05538)
-- [ ] [Simple And Efficient Architecture Search for Convolutional Neural Networks](https://arxiv.org/abs/1711.04528)
-- [ ] [Kronecker Recurrent Units](https://arxiv.org/abs/1705.10142)
-- [ ] [High-dimensional dynamics of generalization error in neural networks](https://arxiv.org/abs/1710.03667)
-- [ ] [Bayesian Optimization with Gradients](https://arxiv.org/abs/1703.04389)
-- [ ] [Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb)
-- [ ] [Data Augmentation Generative Adversarial Networks](https://arxiv.org/abs/1711.04340)
-- [ ] [Variance Reduced methods for Non-convex Composition Optimization](https://arxiv.org/abs/1711.04416)
-- [ ] [Simple And Efficient Architecture Search for Convolutional Neural Networks](https://arxiv.org/abs/1711.04528)
-- [ ] [On Tensor Train Rank Minimization: Statistical Efficiency and Scalable Algorithm](https://arxiv.org/abs/1708.00132)
-- [ ] [Learning and Real-time Classification of Hand-written Digits With Spiking Neural Networks](https://arxiv.org/abs/1711.03637)
-- [ ] [Seven neurons memorizing sequences of alphabetical images via spike-timing dependent plasticity](https://www.nature.com/articles/srep14149)
-- [ ] [Bayesian GAN](https://arxiv.org/abs/1705.09558)
-- [ ] [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
-- [ ] [Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net](https://arxiv.org/abs/1711.02282)
-- [ ] [Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165)
-- [ ] [Deep Recurrent Gaussian Process with Variational Sparse Spectrum Approximation](https://arxiv.org/abs/1711.00799)
-- [ ] [Fraternal Dropout](https://arxiv.org/abs/1711.00066)
-- [ ] [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489)
-
 ## Evolutionary Computing
 
 - [ ] [Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574)
@@ -134,7 +134,7 @@
 
 ## Artificial Intelligence
 
-- [ ] [Building Machines that Learn and Think for Themselves: Commentary on Lake et al., Behavioral and Brain Sciences, 2017]https://arxiv.org/abs/1711.08378)
+- [ ] [Building Machines that Learn and Think for Themselves](https://arxiv.org/abs/1711.08378)
 - [ ] [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289)
 
 ## Blog
