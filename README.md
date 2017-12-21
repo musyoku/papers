@@ -13,7 +13,6 @@
 - [ ] [Variance Reduced methods for Non-convex Composition Optimization](https://arxiv.org/abs/1711.04416)
 - [ ] [Simple And Efficient Architecture Search for Convolutional Neural Networks](https://arxiv.org/abs/1711.04528)
 - [ ] [Learning and Real-time Classification of Hand-written Digits With Spiking Neural Networks](https://arxiv.org/abs/1711.03637)
-- [ ] [Seven neurons memorizing sequences of alphabetical images via spike-timing dependent plasticity](https://www.nature.com/articles/srep14149)
 - [ ] [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - [ ] [Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net](https://arxiv.org/abs/1711.02282)
 - [ ] [Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165)
@@ -23,7 +22,6 @@
 - [ ] [Reparameterizing the Birkhoff Polytope for Variational Permutation Inference](https://arxiv.org/abs/1710.09508)
 - [ ] [Variational Inference based on Robust Divergences](https://arxiv.org/abs/1710.06595)
 - [ ] [Binary Classification from Positive-Confidence Data](https://arxiv.org/abs/1710.07138)
-- [ ] [On Tensor Train Rank Minimization: Statistical Efficiency and Scalable Algorithm](https://arxiv.org/abs/1708.00132)
 - [ ] [Kronecker Recurrent Units](https://arxiv.org/abs/1705.10142)
 - [ ] [Bayesian GAN](https://arxiv.org/abs/1705.09558)
 - [ ] [Learning how to explain neural networks: PatternNet and PatternAttribution](https://arxiv.org/abs/1705.05598)
@@ -35,6 +33,7 @@
 - [ ] [Structure Discovery in Nonparametric Regression through Compositional Kernel Search](https://arxiv.org/abs/1302.4922)
 - [ ] [Bayesian Hypernetworks](https://arxiv.org/abs/1710.04759)
 - [ ] [Efficient Methods and Hardware for Deep Learning](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf)
+- [ ] [Seven neurons memorizing sequences of alphabetical images via spike-timing dependent plasticity](https://www.nature.com/articles/srep14149)
 
 ## Learning
 
@@ -141,6 +140,15 @@
 - [ ] [Neural Color Transfer between Images](https://arxiv.org/abs/1710.00756)
 - [ ] [Casual 3D Photography](http://visual.cs.ucl.ac.uk/pubs/casual3d/)
 
+## Bayes
+
+- [ ] [The Mondrian Process](http://danroy.org/papers/RoyTeh-NIPS-2009.pdf)
+- [ ] [Bayesian Policy Search with Policy Priors](https://web.stanford.edu/~ngoodman/papers/WingateEtAl-PolicyPrios.pdf)
+- [ ] [Variational MCMC](https://arxiv.org/abs/1301.2266)
+- [ ] [Shared Segmentation of Natural Scenes Using Dependent Pitman-Yor Processes](https://papers.nips.cc/paper/3435-shared-segmentation-of-natural-scenes-using-dependent-pitman-yor-processes)
+- [ ] [Pitman-Yor Diffusion Trees](https://arxiv.org/abs/1106.2494)
+- [ ] [Stochastic Memoizer for Sequence Data](https://www.stats.ox.ac.uk/~teh/research/compling/WooArcGas2009a.pdf)
+
 ## Speech Synthesis 
 
 - [ ] [Parallel WaveNet: Fast High-Fidelity Speech Synthesis](https://deepmind.com/documents/131/Distilling_WaveNet.pdf)
@@ -184,6 +192,7 @@
 ## Algorithms
 
 - [ ] [In-Place Initializable Arrays](https://arxiv.org/abs/1709.08900)
+- [ ] [On Tensor Train Rank Minimization: Statistical Efficiency and Scalable Algorithm](https://arxiv.org/abs/1708.00132)
 
 ## Neuroscience
 
